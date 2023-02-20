@@ -22,7 +22,7 @@
 # Primeiros passos
 
 <ol>
-  <li>Clone essse repositório <strong>git clone https://github.com/jorgepzs/teste-carrinho-compras.git</strong></li>
+  <li>Clone essse repositório <strong>git clone https://github.com/jorgepzs/teste-communik.git</strong></li>
   <li>Instale as dependências <strong>npm install</strong></li>
   <li>Crie um arquivo .env **na raíz do projeto** contento as seguintes variaveis:
   <ul>
