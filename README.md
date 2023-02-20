@@ -45,13 +45,9 @@
 
 # testando as rotas
 
-
-
+<ul>
+    <li>Com o projeto rodando, em seu navegador acesse https://localhost:3000/api-docs</li>
     <li>
-    Com o projeto rodando, em seu navegador acesse https://localhost:3000/api-docs 
-    <li>
-       <li>
-        Nessa rota você escontrará toda a documentação da API.
-    <li>
-
+        Nessa rota você escontrará toda a documentação da API.</li>
+</ul>
 
